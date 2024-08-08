@@ -32,3 +32,22 @@ Chương 4: Functions & method
 4. Functions vs method
 5. Callback, setTimeout, setInterval
 
+
+
+
+
+Chương 5: Array methods
+1. Filter/Find
+2.Map
+3.Reduce
+4.Sort
+5. (lodash)
+
+
+
+==== advances ====
+Async Javascript
+Local Storage
+Object oriented Javascript
+
+ES6 Features: Spread & REst/ Sets/Symbols
